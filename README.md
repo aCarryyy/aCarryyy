@@ -16,7 +16,7 @@
 
 <div align="center">
   📍 Barcelona, Spain <br>
-  🎓 Audiovisual systems engineering <br>
+  🎓 Audiovisual Systems Engineering <br>
   📫 alexcarrion.2003@hotmail.com
 </div>
 <h3 align="center">Connect with me:</h3>
